@@ -12,8 +12,8 @@ section
     align-items: center;
     width: 100%;
     height: 100vh;
-    /*background: url(https://drive.google.com/uc?export=download&id=1ZHl6nCK6Y-xRW73NrB-JfIyGNfyXdctC) no-repeat; */
-    background: url(bg.jpg) no-repeat; 
+    background: url(https://drive.google.com/uc?export=download&id=1ZHl6nCK6Y-xRW73NrB-JfIyGNfyXdctC) no-repeat; 
+    /* background: url(bg.jpg) no-repeat; */
     background-size: cover;
     background-position: center;
     animation: animatebg 5s linear infinite;
